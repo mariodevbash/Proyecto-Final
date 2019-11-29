@@ -1,0 +1,6 @@
+{'_id': ObjectId('5de09c23fd90ca10d3f2726d'), 'Usuario:': 'fese', 'Comado:': 'free', 'Hora y Fecha:': '22:18:43 28-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
+{'_id': ObjectId('5de09c6dfd90ca10d3f2726e'), 'Usuario:': 'linkiris', 'Comado:': 'vmstat', 'Hora y Fecha:': '22:19:57 28-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
+{'_id': ObjectId('5de09f79fd90ca1242558674'), 'Usuario:': '', 'Comado:': 'ps', 'Hora y Fecha:': '22:32:57 28-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
+{'_id': ObjectId('5de09fa4fd90ca1242558675'), 'Usuario:': 'mario77', 'Comado:': 'ps', 'Hora y Fecha:': '22:33:40 28-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
+{'_id': ObjectId('5de0bdb0fd90ca1242558676'), 'Usuario:': 'fredy', 'Comado:': '', 'Hora y Fecha:': '00:41:52 29-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
+{'_id': ObjectId('5de12054fd90ca08bef51b78'), 'Usuario:': 'mario8a', 'Comado:': 'df', 'Hora y Fecha:': '07:42:44 29-11-2019', 'Ip Del Servidor:': '127.0.0.1'}
